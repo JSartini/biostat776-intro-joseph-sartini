@@ -1,9 +1,7 @@
 ---
 title: "Fun Facts"
 site: distill::distill_website
-output:
-  html_document:
-    df_print: paged
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
@@ -21,7 +19,7 @@ knitr::opts_chunk$set(echo = TRUE)
 Racer          | Time
 -------------- | ---------
 Joe            | 1:54.97
-Sam (teammate) | 1:50.82
+Teammate       | 1:50.82
 
 </center>
 
@@ -33,9 +31,7 @@ As can be seen above, I was significantly slower than my teammate, as 4 seconds 
 
 <center>
 
-<video autosize: true controls>
-  <source src="skiing.mp4" type="video/mp4">
-</video>
+![A quick skiing run from last summer](skiing.mp4)
 
 </center>
 
