@@ -3,6 +3,9 @@ title: "Introduction of Joe Sartini"
 description: |
   This is a website to help get to know Joe Sartini for Biostat 776.
 site: distill::distill_website
+output:
+  html_document:
+    df_print: paged
 ---
 
 ```{r setup, include=FALSE}
