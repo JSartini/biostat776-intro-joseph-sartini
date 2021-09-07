@@ -33,7 +33,9 @@ As can be seen above, I was significantly slower than my teammate, as 4 seconds 
 
 <center>
 
-![A quick skiing run from last summer](IMG_0973.jpeg)
+<video autosize: true controls>
+  <source src="skiing.mp4" type="video/mp4">
+</video>
 
 </center>
 
