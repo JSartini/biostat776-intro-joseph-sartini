@@ -3,9 +3,6 @@ title: "Introduction of Joe Sartini"
 description: |
   This is a website to help get to know Joe Sartini for Biostat 776.
 site: distill::distill_website
-output:
-  html_document:
-    df_print: paged
 ---
 
 ```{r setup, include=FALSE}
@@ -29,38 +26,6 @@ For my most related experience, I have used R in several courses to implement da
 
 ### Learning Goals
 In this class, I look forward most to learning how to more seamlessly produce appealing statistical reports which convey results such that they are both easy to understand and replicate.
-
-## Fun Facts
-1. I competed in varsity track and field during my time as an undergraduate, although I wasn't incredibly competitive at the higher levels. I still run now, training to compete in 5k and 10k road races rather than my previous 800 meter track races.
-
-<center>
-
-![Myself at a home outdoor track meet sophomore year](Sartini_PU_TRK_Sam_Howell1152.jpg)
-
-
-
-Racer          | Time
--------------- | ---------
-Joe            | 1:54.97
-Sam (teammate) | 1:50.82
-
-</center>
-
-As can be seen above, I was significantly slower than my teammate, as 4 seconds over the course of an 800 meter race is practically an eternity.
-
-2. After being sent home due to the pandemic, I attempted to teach myself the saxophone, which, I must admit, is even now progressing rather slowly. I had hoped to learn this instrument such that I could play it over my own looped bass lines.
-
-3. When in my home state of Arkansas during the summers, I am an avid water skier. I have been doing this since I was around 8-9 years old, and my enjoyment of the activity has only grown since first learning it.
-
-<center>
-
-![A quick skiing run from last summer](IMG_0973.jpeg)
-
-</center>
-
-4. Despite participating in a number of high-impact activities throughout my life, from 3 years of football to 10 years of martial arts, I have never broken a bone. This surprises me just as much as it does others, if not more. 
-
-5. I grew up fishing in the lakes and rivers around my home, a pass-time that I shared with my father and grandfather to all three of our enjoyment.
 
 ## Interesting Article
 The following webpage contains links to a number of publicly available datasets for studying the trends present in the current COVID-19 pandemic, the sheer depth and bredth of which is really astonishing. I've been combing through these datasets and finding all kinds of interesting things just waiting to be tested by someone with a greater level of computational power and time.
