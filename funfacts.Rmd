@@ -29,7 +29,11 @@ As can be seen above, I was significantly slower than my teammate, as 4 seconds 
 
 3. When in my home state of Arkansas during the summers, I am an avid water skier. I have been doing this since I was around 8-9 years old, and my enjoyment of the activity has only grown since first learning it.
 
-![A quick skiing run from last summer](skiing.mp4)
+<center>
+
+![A quick skiing run from last summer](skiing.mp4){width=50%}
+
+</center>
 
 4. Despite participating in a number of high-impact activities throughout my life, from 3 years of football to 10 years of martial arts, I have never broken a bone. This surprises me just as much as it does others, if not more. 
 
