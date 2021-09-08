@@ -3,13 +3,10 @@ title: "Introduction of Joe Sartini"
 description: |
   This is a website to help get to know Joe Sartini for Biostat 776.
 site: distill::distill_website
-output:
-  html_document:
-    df_print: paged
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_chunk$set(echo = TRUE)
 
 # Learn more about creating websites with Distill at:
 # https://rstudio.github.io/distill/website.html
@@ -30,8 +27,4 @@ For my most related experience, I have used R in several courses to implement da
 ### Learning Goals
 In this class, I look forward most to learning how to more seamlessly produce appealing statistical reports which convey results such that they are both easy to understand and replicate.
 
-## Interesting Article
-The following webpage contains links to a number of publicly available datasets for studying the trends present in the current COVID-19 pandemic, the sheer depth and bredth of which is really astonishing. I've been combing through these datasets and finding all kinds of interesting things just waiting to be tested by someone with a greater level of computational power and time.
-
-https://datascience.nih.gov/covid-19-open-access-resources
 
