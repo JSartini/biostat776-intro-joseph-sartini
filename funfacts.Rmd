@@ -31,7 +31,7 @@ As can be seen above, I was significantly slower than my teammate, as 4 seconds 
 
 <center>
 
-![A quick skiing run from last summer](skiing.mp4){width=50%}
+![A quick skiing run from last summer](skiing.mp4){width=75%}
 
 </center>
 
