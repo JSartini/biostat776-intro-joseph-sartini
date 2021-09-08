@@ -1,5 +1,5 @@
 ---
-title: "Introduction of Joe Sartini"
+title: "Introduction of Joe Sartini: About Me"
 description: |
   This is a website to help get to know Joe Sartini for Biostat 776.
 site: distill::distill_website

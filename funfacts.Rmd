@@ -1,5 +1,5 @@
 ---
-title: "Fun Facts"
+title: "Introduction of Joe Sartini: Fun Facts"
 site: distill::distill_website
 output: distill::distill_article
 ---
