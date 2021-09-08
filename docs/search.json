@@ -1,0 +1,27 @@
+{
+  "articles": [
+    {
+      "path": "funfacts.html",
+      "title": "Fun Facts",
+      "author": [],
+      "contents": "\nI competed in varsity track and field during my time as an undergraduate, although I wasn’t incredibly competitive at the higher levels. I still run now, training to compete in 5k and 10k road races rather than my previous 800 meter track races.\n\nMyself at a home outdoor track meet sophomore yearRacer\nTime\nJoe\n1:54.97\nTeammate\n1:50.82\n\nAs can be seen above, I was significantly slower than my teammate, as 4 seconds over the course of an 800 meter race is practically an eternity.\nAfter being sent home due to the pandemic, I attempted to teach myself the saxophone, which, I must admit, is even now progressing rather slowly. I had hoped to learn this instrument such that I could play it over my own looped bass lines.\nWhen in my home state of Arkansas during the summers, I am an avid water skier. I have been doing this since I was around 8-9 years old, and my enjoyment of the activity has only grown since first learning it.\n\nA quick skiing run from last summerA quick skiing run from last summer\nDespite participating in a number of high-impact activities throughout my life, from 3 years of football to 10 years of martial arts, I have never broken a bone. This surprises me just as much as it does others, if not more.\nI grew up fishing in the lakes and rivers around my home, a pass-time that I shared with my father and grandfather to all three of our enjoyment.\n\n\n\n",
+      "last_modified": "2021-09-07T20:23:22-04:00"
+    },
+    {
+      "path": "ilink.html",
+      "title": "Interesting Link",
+      "author": [],
+      "contents": "\nThe following webpage contains links to a number of publicly available datasets for studying the trends present in the current COVID-19 pandemic, the sheer depth and bredth of which is really astonishing. I’ve been combing through these datasets and finding all kinds of interesting things just waiting to be tested by someone with a greater level of computational power and time.\nhttps://datascience.nih.gov/covid-19-open-access-resources\n\n\n\n",
+      "last_modified": "2021-09-07T20:23:23-04:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Introduction of Joe Sartini",
+      "description": "This is a website to help get to know Joe Sartini for Biostat 776.\n",
+      "author": [],
+      "contents": "\nAbout Me\nBackground\nI am a first year PhD student in the Biostatistics department, and I am freshly graduated with my undergraduate degree from the Operations Research and Financial Engineering department at Princeton University. Through coursework in my previous program and various research and industry internships, I have experience in machine learning, particularly linear models and deep neural networks, stochastic optimization, and software engineering.\nResearch Interests\nI currently have a loose interest in the use of EHR data within stochastic models to improve and implement precision medicine. However, I am honestly open to any health science applications which involve the use of machine learning or other models to form actionable insights in the world of healthcare using the wealth of health and personal data made possible by the digital age.\nRelevant Experience\nFor my most related experience, I have used R in several courses to implement data-based models, such as linear models, SVMs, and neural networks, to facilitate solving of problems related primarily to finance or forecasting. More generally, I have been a broad programming background acquired over the course of my academic and industry experiences. This background ranges from distributed computation in Scala/Spark to Monte Carlo Simulation, to deep learning models for computer vision in the context of self-driving cars.\nLearning Goals\nIn this class, I look forward most to learning how to more seamlessly produce appealing statistical reports which convey results such that they are both easy to understand and replicate.\n\n\n\n",
+      "last_modified": "2021-09-07T20:23:23-04:00"
+    }
+  ],
+  "collections": []
+}

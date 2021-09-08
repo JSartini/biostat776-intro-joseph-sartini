@@ -2,7 +2,7 @@ name: "P0"
 title: "My Website"
 description: |
   My Website
-output_dir: "."
+output_dir: "./docs"
 navbar:
   right:
     - text: "About Me"
