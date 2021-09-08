@@ -1,7 +1,7 @@
 name: "P0"
-title: "My Website"
+title: "Joe Sartini Introduction"
 description: |
-  My Website
+  This website contains a short introduction of Joe Sartini
 output_dir: "docs"
 navbar:
   right:

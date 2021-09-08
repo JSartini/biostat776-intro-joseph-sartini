@@ -8,6 +8,6 @@ output: distill::distill_article
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-The following webpage contains links to a number of publicly available datasets for studying the trends present in the current COVID-19 pandemic, the sheer depth and bredth of which is really astonishing. I've been combing through these datasets and finding all kinds of interesting things just waiting to be tested by someone with a greater level of computational power and time.
+The following webpage contains links to a number of publicly available data sets for studying any and all types of problems related to COVID-19, from the protein structure of the virus to surveillance of cases. The sheer depth and breadth of which is really astonishing. I've been combing through these data sets and finding all kinds of interesting things just waiting to be tested by someone with a greater level of computational power and time.
 
 https://datascience.nih.gov/covid-19-open-access-resources
